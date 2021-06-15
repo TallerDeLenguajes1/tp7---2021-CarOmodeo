@@ -242,6 +242,10 @@ namespace Tp7
                     }
                     click = 0;
                 }
+                else
+                {
+                    click = 0;
+                }
             }  
         }
 
